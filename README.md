@@ -108,7 +108,7 @@ https://api.openweathermap.org/data/2.5/weather?units=metric&q={city}&appid={api
 
 | Search | Result | Error |
 |---|---|---|
-| ![Search](https://ibb.co/1YNrHgh3) | ![2nd SC](https://ibb.co/cSDvV5P3) | ![3rd SC](https://ibb.co/212XbRjH) |
+| ![Search](<a href="https://ibb.co/cSDvV5P3"><img src="https://i.ibb.co/cSDvV5P3/Screenshot-2026-04-03-12-57-13-05-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" alt="Screenshot-2026-04-03-12-57-13-05-40deb401b9ffe8e1df2f1cc5ba480b12" border="0" /></a>) | ![2nd SC](<a href="https://ibb.co/1YNrHgh3"><img src="https://i.ibb.co/TDG4zfpZ/Screenshot-2026-04-03-12-56-50-79-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" alt="Screenshot-2026-04-03-12-56-50-79-40deb401b9ffe8e1df2f1cc5ba480b12" border="0" /></a>) | ![3rd SC](<a href="https://ibb.co/212XbRjH"><img src="https://i.ibb.co/q3GbZhRV/Screenshot-2026-04-03-12-56-41-51-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" alt="Screenshot-2026-04-03-12-56-41-51-40deb401b9ffe8e1df2f1cc5ba480b12" border="0" /></a>) |
 
 ---
 
