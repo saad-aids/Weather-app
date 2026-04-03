@@ -108,7 +108,7 @@ https://api.openweathermap.org/data/2.5/weather?units=metric&q={city}&appid={api
 
 | Search | Result | Error |
 |---|---|---|
-| ![Search](#https://ibb.co/1YNrHgh3) | ![2nd SC](#https://ibb.co/cSDvV5P3) | ![3rd SC](#https://ibb.co/212XbRjH) |
+| ![Search](https://ibb.co/1YNrHgh3) | ![2nd SC](https://ibb.co/cSDvV5P3) | ![3rd SC](https://ibb.co/212XbRjH) |
 
 ---
 
