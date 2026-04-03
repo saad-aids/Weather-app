@@ -1,6 +1,6 @@
-# 🌤️ Weather App
+# 🌤️ Weather App - Atmosify 
 
-A clean and responsive **Weather App** built with pure **HTML, CSS, and JavaScript** that shows real-time weather data for any city in the world using the OpenWeatherMap API.
+A clean and responsive **Weather App-Atmosify** built with pure **HTML, CSS, and JavaScript** that shows real-time weather data for any city in the world using the OpenWeatherMap API.
 
 ---
 
